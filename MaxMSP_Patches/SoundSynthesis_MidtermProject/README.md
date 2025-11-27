@@ -1,4 +1,4 @@
-# Sound Synthesis Midterm — Dual‑Tone Synth (Max/MSP)
+# Dual‑Tone Synth (Max/MSP)
 
 This Max/MSP patch implements a dual‑tone synthesizer with selectable engines, ADSR envelope shaping, and a rhythmic trigger at 120 BPM (two notes per second). It is designed to avoid clicks between successive notes and to take the fundamental frequency from a **K‑slider**.
 
@@ -45,4 +45,4 @@ This Max/MSP patch implements a dual‑tone synthesizer with selectable engines,
 
 ---
 
-© Henry Powell — for educational portfolio use.
+© Henry Powell — Audio DSP Development
